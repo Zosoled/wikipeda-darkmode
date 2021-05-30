@@ -1,0 +1,119 @@
+body,
+#p-banner,
+#p-logo-text,
+#p-logo-text a,
+.infobox,
+.tools-inline li.selected a,
+.ext-related-articles-card-list h3 a {
+	color: #eee;
+}
+
+.tocnumber,
+.wb-langlinks-link > a:link,
+.wb-langlinks-link > a:visited,
+.client-js .mw-content-ltr .mw-editsection-bracket:first-of-type,
+.client-js .mw-content-rtl .mw-editsection-bracket:first-of-type,
+.client-js .mw-content-ltr .mw-editsection-bracket:not(:first-of-type),
+.client-js .mw-content-rtl .mw-editsection-bracket:not(:first-of-type) {
+	color: #ddd !important;
+}
+
+a,
+a:hover {
+	color: #69f;
+}
+
+a:visited,
+a:visited:hover {
+	color: #67d;
+}
+
+#mw-page-header-links a,
+#personal-extra a,
+#t-contributions a,
+.mw-editsection,
+#mw-page-header-links a span,
+#personal-extra a span,
+#personal-extra a:after,
+#t-contributions a span,
+.mw-editsection a {
+	filter: invert(1) !important;
+}
+
+#mw-header-container,
+#mw-content-container {
+	background-color: #111;
+	color: #eee;
+}
+
+#p-banner > img {
+	filter: invert(1);
+}
+
+#mw-content,
+#mw-site-navigation .sidebar-chunk,
+#mw-related-navigation .sidebar-chunk,
+ul#filetoc,
+.toc,
+.toccolours,
+.infobox,
+.mw-warning,
+table.ambox,
+.navbox,
+.navbox-subgroup,
+.ext-related-articles-card-list .ext-related-articles-card,
+.ext-related-articles-card-list .ext-related-articles-card-thumb {
+	background-color: #333 !important;
+}
+
+.infobox-header {
+	background-color: #666 !important;
+}
+
+.navbox th,
+.navbox-title {
+	background-color: #224;
+}
+
+.navbox-abovebelow,
+th.navbox-group,
+.navbox-subgroup .navbox-title {
+	background-color: #335;
+}
+
+.ext-related-articles-card-list h3:after {
+	background: none !important;
+}
+
+code,
+pre,
+.mw-code {
+	background-color: #222;
+	color: #fff;
+}
+
+div.mw-highlight {
+	background-color: #555;
+}
+
+.mw-highlight .nt,
+.mw-highlight .k {
+	color: #6f6;
+}
+
+.mw-highlight .nc,
+.mw-highlight .nn {
+	color: #66f;
+}
+
+.mw-highlight .nd {
+	color: #91e;
+}
+
+.mw-highlight .mh {
+	color: #ccc;
+}
+
+.mw-highlight .cp {
+	color: #c81;
+}
